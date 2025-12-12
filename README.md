@@ -32,4 +32,4 @@ JavaScript (DOM + Events + Arrays + localStorage)
 
 👩🏾‍💻 Author
 
-Nishimwe Rebecca
+Rebecca Nishimwe 
